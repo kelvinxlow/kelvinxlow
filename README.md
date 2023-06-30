@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Kelvin Low and I'm a second year computer science student at the University of Waterloo
+- 👋 Hi, my name is Kelvin Low and I'm a third year computer science student at the University of Waterloo
 - 👀 I am most interested in iOS development but also have some experience working in other areas and would love to diversify my skillset further
 - 📫 Feel free to reach out to me via email at k7low@uwaterloo.ca for any potential collaboration opportunities 
 
